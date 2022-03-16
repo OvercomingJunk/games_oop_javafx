@@ -1,5 +1,6 @@
 package ru.job4j.puzzle;
 
+
 import org.junit.Ignore;
 import org.junit.Test;
 
